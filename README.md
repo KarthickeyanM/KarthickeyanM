@@ -42,7 +42,7 @@
   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55" style="margin-right: 10px;" />-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="redux" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
 </div> 
 
