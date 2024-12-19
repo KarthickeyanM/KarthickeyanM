@@ -37,13 +37,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55" />
 </div>
 
-<h3>Frameworks</h3>
+<!--<h3>Frameworks</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
-</div>
+</div> -->
 
 <h3>Databases</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
