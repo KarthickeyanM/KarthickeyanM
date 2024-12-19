@@ -44,6 +44,11 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55" style="margin-right: 10px;" />-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="matplotlib" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
 </div> 
 
 <h3>Databases</h3>
