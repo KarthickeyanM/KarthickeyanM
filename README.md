@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/karthickeyanm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.hackerrank.com/profile/" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/profile/karthickeyanm" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerank" height="30" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://leetcode.com/u/KarthickeyanM/" target="_blank" rel="noreferrer">
