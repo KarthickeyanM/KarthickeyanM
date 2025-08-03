@@ -28,11 +28,11 @@
 <h3>Languages</h3>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" />
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55" Preparing for Gate Exam C programming/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55" Preparing for Gate Exam C programming/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
 
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
+ <!-- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55" />
 # learnt java and javascript long time ago got out of touch since havent had done projects and coding. i had learnt and understood OOPS by Trying oops concepts on java. Later i got used to oops on python also. learnt javascript and tried out react projects long time ago.
 </div> -->
